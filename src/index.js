@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './Index.css';
+import './index.css';
 import Header from './Secctions/Header/Header';
 import Botanicos from './Secctions/Botanicos/Botanicos';
 
