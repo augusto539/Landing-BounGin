@@ -1,0 +1,53 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100vh;
+}
+
+.Header .izquierda {
+    width: 60%;
+}
+.Header .izquierda h1, .Header .izquierda h2{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+
+.Header .izquierda .Boun{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10rem;
+}
+
+.Header .izquierda .Gin{
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10rem;
+}
+
+.Header .izquierda h2{
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Header .derecha {
+    width: 40%;
+}
+.Header .derecha img{
+    filter: drop-shadow(0 50px 50px rgba(0, 0, 0, 0.479));
+}
+
+.Header .derecha .botella{
+    position: relative;
+    top: 350px;
+    left: -200px;
+    z-index: 1;
+}
+.Header .derecha .liquido{
+    position: relative;
+    top: -300px;
+    left: 200px;
+}

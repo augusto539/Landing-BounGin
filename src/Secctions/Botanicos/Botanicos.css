@@ -1,0 +1,36 @@
+.Botanicos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 70vh;
+
+    background-image: url('./imgs/fondo.png');
+    background-blend-mode: color;
+}
+
+.Botanicos h3 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.Botanicos .descripcion {
+    width: 60%;
+    padding: 50px;
+    padding-top: 0px;
+
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.Botanicos .descripcion p {
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-align: center;
+}
