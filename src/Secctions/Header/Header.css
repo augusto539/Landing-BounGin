@@ -51,3 +51,35 @@
     top: -300px;
     left: 200px;
 }
+
+
+@media (max-width: 700px) {
+    .Header {
+        height: auto;
+        flex-direction: column;
+        padding-top: 100px;
+    }
+    .Header .izquierda, .Header.derecha {
+        width: 100%;
+    }
+    .Header .izquierda .Boun{
+        font-size: 5rem;
+    }
+    .Header .izquierda .Gin{
+        font-size: 5rem;
+    }
+    .Header .derecha img{
+        height: 300px;
+    }
+    
+    .Header .derecha .botella{
+        top: 0px;
+        left: 60px;
+        z-index: 1;
+    }
+    .Header .derecha .liquido{
+        position: relative;
+        top: -100px;
+        left: -150px;
+    }
+}
