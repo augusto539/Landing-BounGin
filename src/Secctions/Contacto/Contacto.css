@@ -1,5 +1,6 @@
 #contacto{
     width: 100%;
+    margin-top: 100px;
 
     display: flex;
     flex-direction: column;
@@ -18,7 +19,8 @@
 }
 
 #contacto .title h2 {
-    font-size: 4rem;
+    text-align: center;
+    font-size: 3rem;
     color: #44164C;
 }
 

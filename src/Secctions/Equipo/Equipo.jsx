@@ -1,10 +1,13 @@
 import './Equipo.css';
+import equipo from './img/equipo.png'
 
 function Equipo() {
     return (
         <div className="Equipo">
             <div className="izquierda">
-                <img src="" alt="" />
+                <div className="img">
+                <img src={equipo} alt="" />
+                </div>
             </div>
             <div className="derecha">
                 <p>
