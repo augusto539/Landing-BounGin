@@ -35,6 +35,35 @@
     text-align: center;
 }
 
+@media (min-width: 700px) {
+    .Botanicos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+        height: 70vh;
+    
+        background-image: url('./imgs/fondo.png');
+        background-blend-mode: color;
+    }
+    
+    .Botanicos h3 {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    
+    .Botanicos .descripcion {
+        width: 60%;
+        padding: 50px;
+        padding-top: 0px;
+    }
+    
+    .Botanicos .descripcion p {
+        font-size: 1.2rem;
+    }
+}
+
 @media (max-width: 700px) {
     .Botanicos {
         display: flex;

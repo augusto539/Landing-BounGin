@@ -52,6 +52,24 @@
     left: 200px;
 }
 
+@media (min-width: 700px) {
+    .Header{
+       overflow: hidden;
+    }
+    .Header .derecha img{
+        height: 400px;
+    }
+    .Header .derecha .botella{
+        top: 50px;
+        left: 150px;
+        z-index: 1;
+    }
+    .Header .derecha .liquido{
+        position: relative;
+        top: -100px;
+        left: -100px;
+    }
+}
 
 @media (max-width: 700px) {
     .Header {
