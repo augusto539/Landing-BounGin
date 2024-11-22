@@ -6,8 +6,10 @@
 
     height: 70vh;
 
-    background-image: url('./imgs/fondo.png');
-    background-blend-mode: color;
+    background-image: url('./imgs/fondo2.jpg');
+    background-position: center;
+
+    color: white;
 }
 
 .Botanicos h3 {
@@ -43,9 +45,6 @@
         justify-content: center;
     
         height: 70vh;
-    
-        background-image: url('./imgs/fondo.png');
-        background-blend-mode: color;
     }
     
     .Botanicos h3 {
@@ -72,9 +71,6 @@
         justify-content: center;
     
         height: 70vh;
-    
-        background-image: url('./imgs/fondo.png');
-        background-blend-mode: color;
     }
     
     .Botanicos h3 {

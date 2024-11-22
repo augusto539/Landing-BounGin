@@ -38,9 +38,11 @@
     border-radius: 10px;
 
     background-color: #E9BCB9;
+    background-color: #44164C;
     border: none;
 
     color: #44164C;
+    color: white;
     font-size: 2rem;
 
     cursor: pointer;
@@ -49,7 +51,8 @@
 }
 #contacto form button:hover{
     background-color: #44164C;
-    color: white;
+    background-color: #E9BCB9;
+    color: #44164C;
 }
 
 

@@ -10,8 +10,6 @@ import Swal from 'sweetalert2';
 import withReactContent from 'sweetalert2-react-content'
 // CSS
 import './Contacto.css';
-// IMG
-import Flecha_roja from "./img/flexcha roja.png"
 
 
 export default function Contacto() {

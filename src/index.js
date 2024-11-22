@@ -5,6 +5,7 @@ import Header from './Secctions/Header/Header';
 import Botanicos from './Secctions/Botanicos/Botanicos';
 
 import Contacto from './Secctions/Contacto/Contacto';
+import Footer from './Secctions/Footer/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,5 +13,6 @@ root.render(
     <Header/>
     <Botanicos/>
     <Contacto/>
+    <Footer/>
   </React.StrictMode>
 );
