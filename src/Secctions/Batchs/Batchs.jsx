@@ -6,7 +6,8 @@ function Batchs() {
         <div className="Batchs">
             <div className="derecha">
                 <p>
-                Acabamos de terminar el primer batch de BounGIn, <br /> !envíanos un mail así no te quedas sin tu botella¡
+                Acabamos de terminar el primer batch de BuonGIn,  <br/>
+                !envíanos un mail así no te quedas sin tu botella¡
                 </p>
             </div>
             <div className="izquierda">

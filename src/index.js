@@ -15,7 +15,7 @@ root.render(
     <Botanicos/>
     <h3 className='equipoh3'> El Equipo </h3>
     <Equipo/>
-    <h3 className='equipoh3'> La Produccion </h3>
+    <h3 className='equipoh3'> La Producción </h3>
     <Batchs/>
     <Contacto/>
     <Footer/>

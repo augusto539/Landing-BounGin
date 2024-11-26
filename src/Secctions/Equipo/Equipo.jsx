@@ -11,7 +11,7 @@ function Equipo() {
             </div>
             <div className="derecha">
                 <p>
-                    Somos un grupo de estudiantes de ingenieria quimica apacionados por los destilados que como poryecto de quimica aplicada decidimos adentrarnos al mundo del gin con nuestro producto "BounGin", que es un gin de gusto y aspecto inovador.
+                Somos un grupo de estudiantes de ingeniería química apasionados por los destilados que como proyecto de química aplicada decidimos adentrarnos al mundo del gin con nuestro producto "BuonGin", que es un gin de gusto y aspecto innovador.
                 </p>
             </div>
         </div>
